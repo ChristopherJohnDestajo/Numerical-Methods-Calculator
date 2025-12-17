@@ -1,1 +1,1 @@
-Open the main.cpp to start
+Open the main.cpp in the source files to start
