@@ -2012,6 +2012,8 @@ int main() {
         cout << "========================================================================";
         cout << "\n\t\tNUMERICAL METHODS CALCULATOR\n";
         cout << "========================================================================\n";
+		cout << "Equation Input Example: 2*x^3 - 4*x + 1\n";
+        cout << " pi for pi constant = pi/2 , 2*pi/4 \n";
         cout << "1 - Matrix Calculator\n";
         cout << "2 - Linear Equation\n";
         cout << "3 - Single Root/Curve Fitting\n";
@@ -2042,4 +2044,5 @@ int main() {
 
     return 0;
 }
+
 
