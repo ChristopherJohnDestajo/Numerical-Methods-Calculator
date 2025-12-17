@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(80,17): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(82,31): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(87,17): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(89,31): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(94,17): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(96,31): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(114,17): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(116,32): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(123,17): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(134,17): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(316,13): warning C4566: character represented by universal-character-name '\u2248' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(379,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(438,13): warning C4566: character represented by universal-character-name '\u222B' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(478,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(902,17): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(1149,21): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(1205,21): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(1358,13): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(1956,20): warning C4101: 'xm': unreferenced local variable
+C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\Numerical Methods Calculator\main.cpp(1956,16): warning C4101: 'xp': unreferenced local variable
+  Numerical Methods Calculator.vcxproj -> C:\Users\cjdestajo\source\repos\Numerical Methods Calculator\x64\Debug\Numerical Methods Calculator.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

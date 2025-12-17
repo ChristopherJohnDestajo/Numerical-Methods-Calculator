@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Numerical Methods Calculator", "Numerical Methods Calculator\Numerical Methods Calculator.vcxproj", "{237C492C-AA5C-4878-BF0D-5DD4029C9E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237C492C-AA5C-4878-BF0D-5DD4029C9E79}.Debug|x64.ActiveCfg = Debug|x64
+		{237C492C-AA5C-4878-BF0D-5DD4029C9E79}.Debug|x64.Build.0 = Debug|x64
+		{237C492C-AA5C-4878-BF0D-5DD4029C9E79}.Debug|x86.ActiveCfg = Debug|Win32
+		{237C492C-AA5C-4878-BF0D-5DD4029C9E79}.Debug|x86.Build.0 = Debug|Win32
+		{237C492C-AA5C-4878-BF0D-5DD4029C9E79}.Release|x64.ActiveCfg = Release|x64
+		{237C492C-AA5C-4878-BF0D-5DD4029C9E79}.Release|x64.Build.0 = Release|x64
+		{237C492C-AA5C-4878-BF0D-5DD4029C9E79}.Release|x86.ActiveCfg = Release|Win32
+		{237C492C-AA5C-4878-BF0D-5DD4029C9E79}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07929A9F-A30C-4807-8F19-E92A03C050A6}
+	EndGlobalSection
+EndGlobal
